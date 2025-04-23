@@ -1,0 +1,23 @@
+{
+  "name": "theodin-informational-site",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/bashair0/theOdin-informational-site#readme",
+  "bugs": {
+    "url": "https://github.com/bashair0/theOdin-informational-site/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bashair0/theOdin-informational-site.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
